@@ -3,3 +3,7 @@ body {
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 1.2em;
 }
+
+.add-note {
+    cursor: pointer;
+}
