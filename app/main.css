@@ -1,9 +1,23 @@
 body {
-    background: cornsilk;
-    font-family: "Lucida Console", Monaco, monospace;
+    background: #f8f8f8;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
     font-size: 1.2em;
 }
 
 .add-note {
     cursor: pointer;
+    border: 1px solid #006666;
+
+    height: 1.5em;
+    width: 1.5em;
+
+    color: #006666;
+    background-color: #eeeeff;
+
+    font-size: 1.6em;
+}
+
+.add-note:hover {
+    color: #eeeeff;
+    background-color: #006666;
 }
