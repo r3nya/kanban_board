@@ -1,4 +1,4 @@
-import uuid from 'uuid';
+import uuid from 'node-uuid';
 import alt from '../libs/alt';
 import NoteActions from '../actions/NoteActions';
 
